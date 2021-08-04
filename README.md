@@ -1,5 +1,7 @@
 # Data-Structure-and-Algorithms
-Repository For DSA Techniques
+**This repository is made so that in interview if any new question arrives at you ,so you can think and apply any of these approach to solve your question,Please contribute to this repository as it will help others**
+
+## you only need to contribute the different techniques name not any description .
 
 # Array
 
