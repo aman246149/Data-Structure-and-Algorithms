@@ -23,7 +23,7 @@
 </ol>
 
 # Graph
-1. BFS <br>
+ ## BFS <br>
   **Application of BFS**
   1. Shortest Path and Minimum Spanning Tree for unweighted graph
   2. Cycle detection in undirected graph
@@ -32,7 +32,7 @@
   5. Finding all nodes within one connected component
   6. Ford–Fulkerson algorithm
 
-2. DFS <br>
+ ##  DFS <br>
   **Application of DFS**
   1. Detecting cycle in a graph 
   2. Path Finding 
@@ -42,7 +42,7 @@
   6. Solving puzzles with only one solution [such as mazes]
   7. For finding Connected Components 
 
-3. ALGORITHMS
+ ## ALGORITHMS
   1. Kruskal’s Algorithm
   2. Prim’s Algorithm :
   3. Dijkstra’s Algorithm
