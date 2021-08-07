@@ -20,6 +20,37 @@
 <li>Merge Intervals Approach </li>
 <li>Merge Sort and its Functionality (many questions used this approach) </li>
 <li>Two Pointer Approach </li>
-
-
 </ol>
+
+# Graph
+1. BFS 
+  **Application of BFS**
+  1. Shortest Path and Minimum Spanning Tree for unweighted graph
+  2. Cycle detection in undirected graph
+  3. To test if a graph is Bipartite
+  4. Path Finding
+  5. Finding all nodes within one connected component
+  6. Ford–Fulkerson algorithm
+
+2. DFS
+  **Application of DFS**
+  1. Detecting cycle in a graph 
+  2. Path Finding 
+  3. Topological Sorting
+  4. To test if a graph is bipartite
+  5. Finding Strongly Connected Components of a graph :
+  6. Solving puzzles with only one solution [such as mazes]
+  7. For finding Connected Components 
+
+3. ALGORITHMS
+  1. Kruskal’s Algorithm
+  2. Prim’s Algorithm :
+  3. Dijkstra’s Algorithm
+  4. Bellman Ford’s Algorithm
+  5. Floyd-Warshall’s Algorithm
+  6. Kosaraju’s algorithm
+  7. Tarjan’s algorithm  
+
+
+
+
