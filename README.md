@@ -23,7 +23,7 @@
 </ol>
 
 # Graph
-1. BFS 
+1. BFS <br>
   **Application of BFS**
   1. Shortest Path and Minimum Spanning Tree for unweighted graph
   2. Cycle detection in undirected graph
@@ -32,7 +32,7 @@
   5. Finding all nodes within one connected component
   6. Ford–Fulkerson algorithm
 
-2. DFS
+2. DFS <br>
   **Application of DFS**
   1. Detecting cycle in a graph 
   2. Path Finding 
