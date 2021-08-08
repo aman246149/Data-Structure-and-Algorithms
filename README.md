@@ -50,6 +50,11 @@
   5. Floyd-Warshall’s Algorithm
   6. Kosaraju’s algorithm
   7. Tarjan’s algorithm  
+  8. khan's algorithm
+  9. Toplological sort
+  10. Tarjans strongly connected component
+  11. prims vs dikastra (not an algorithm but it maybe confusing)
+  
 
 
 
